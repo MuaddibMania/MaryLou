@@ -7,16 +7,15 @@ body{
   text-align: center;
   vertical-align: center;
   font-family: christmasFont;
+  font-size: 90px;
   background-image: url("christmas-wallpaper.jpg");
 }
 
 p{
   color: #800000;
   font-family: christmasFont;
-  font-size: 60px;
 }
 
 h1{
   color: #800000;
-  font-size: 90px;
 }
