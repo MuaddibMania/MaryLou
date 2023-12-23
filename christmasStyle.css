@@ -5,28 +5,18 @@
 
 body{
   text-align: center;
-  font-size: 30px;
   vertical-align: center;
   font-family: christmasFont;
+  background-image: url("christmas-wallpaper.jpg");
 }
 
 p{
   color: #800000;
+  font-family: christmasFont;
+  font-size: 60px;
 }
 
 h1{
   color: #800000;
-}
-
-.bg {
-  /* The image used */
-  background-image: url("christmas-wallpaper.jpg");
-
-  /* Full height */
-  height: 100%;
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  font-size: 90px;
 }
