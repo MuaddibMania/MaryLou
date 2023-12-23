@@ -7,10 +7,22 @@ body{
   text-align: center;
   font-size: 30px;
   vertical-align: center;
-  background-image: url("christmas-wallpaper.jpg");
 }
 
 h1{
   color: #990000;
   font-family: christmasFont;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("christmas-wallpaper.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
