@@ -5,12 +5,17 @@
 
 body{
   text-align: center;
-  font-size: 30px;
   vertical-align: center;
+}
+
+p{
+  color: #800000;
+  font-family: christmasFont;
 }
 
 h1{
   color: #800000;
+  font-size: 30px;
   font-family: christmasFont;
 }
 
