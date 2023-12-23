@@ -1,3 +1,8 @@
+@font-face {
+  font-family: christmasFont;
+  src: url(MerryChristmasFlake.ttf);
+}
+
 body{
   text-align: center;
   font-size: 30px;
@@ -6,6 +11,6 @@ body{
 }
 
 h1{
-  color: #cc0000;
-  font-family: American Typewriter, serif;
+  color: #990000;
+  font-family: christmasFont;
 }
